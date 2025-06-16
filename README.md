@@ -50,3 +50,56 @@ Recommendations for Princess Bride, The (1987):
 3: Ferris Bueller's Day Off (1986), with distance of 0.39811694622039795:
 4: Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981), with distance of 0.4048547148704529:
 5: Groundhog Day (1993), with distance of 0.4066782593727112:
+
+
+# 🎬 Movie Dataset Visualization Project
+
+This repository provides a visual analysis of movie data using Python and libraries like **Pandas**, **Matplotlib**, and **Seaborn**. It merges and analyzes two datasets (`movies.csv` and `ratings.csv`) to explore movie ratings, vote counts, and popularity.
+
+---
+
+## 📁 Datasets Used
+
+### ✅ movies.csv
+| Column        | Description                         |
+|---------------|-------------------------------------|
+| `movie_id`    | Unique movie identifier             |
+| `title`       | Movie title                         |
+| `cast`        | JSON-style string of cast members   |
+| `crew`        | JSON-style string of crew members   |
+
+### ✅ ratings.csv
+| Column         | Description                          |
+|----------------|--------------------------------------|
+| `id`           | Corresponds to `movie_id`            |
+| `title`        | Movie title                          |
+| `vote_average` | Average rating from users            |
+| `vote_count`   | Number of votes received             |
+| ...            | Other metadata like `budget`, `genres`, etc. |
+
+---
+
+## 📊 Visualizations
+
+### 1. **Top 10 Highest Rated Movies**
+Bar plot of movies sorted by average rating (`vote_average`).
+
+### 2. **Vote Count vs Average Rating**
+Scatter plot showing how vote count correlates with rating.
+
+### 3. **Top 5 Movies by Vote Count**
+Pie chart representing the top 5 movies with the highest number of votes.
+
+---
+
+## 🧰 Tech Stack
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+
+
