@@ -6,12 +6,13 @@ Welcome to my **Machine Learning Portfolio Repository**! This repo contains a co
 
 ## 📁 Projects List
 
-| # | Project Name | Description | Technologies |
+| # | Basic Projects | Description | Technologies |
 |--:|--------------|-------------|--------------|
 | 1 | [Movie Recommendation System] | Recommends movies using collaborative filtering and Power BI visualizations. | Python, Pandas, KNN, numpy ,mathplotlip |
 | 2 | [Basic chat bot] | Basic Working of  Customer Support Chatbot , it is a simple model. | Python(Dictionary , loop ) |
 | 3 | [Predicting_Building_Energy_Efficiency] | Task is to build a model that predicts the energy efficiency rating of buildings based on features like wall area, roof area, overall height, etc.. | Python (pandas ,numpy ,matplotlib ,seaborn ,warnings ,sklearn )|
 | 4 | [Vehicle_Clustering] | Task is to cluster vehicles into groups based on their features such as weight, engine size, and horsepower.. | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ) |
+| 5 | [Decision_Tree_Customer_Churn] | I build a decision tree model to predict customer churn for a telecom company. Customer churn refers to when a customer stops doing business with a company. Predicting churn is crucial for businesses to retain customers by addressing their issues proactively... | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ) |
 
 > ✅ Click any project name to go to its folder and see more details.
 
@@ -38,6 +39,9 @@ Welcome to my **Machine Learning Portfolio Repository**! This repo contains a co
 - Power BI / Streamlit
 - OpenCV
 - Jupyter Notebooks
+- Decision tree
+- kmean
+- Neural Network
 
 ---
 
