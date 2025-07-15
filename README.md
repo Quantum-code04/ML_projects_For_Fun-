@@ -15,7 +15,7 @@ Welcome to my **Machine Learning Portfolio Repository**! This repo contains a co
 | 5 | [Decision_Tree_Customer_Churn] | I build a decision tree model to predict customer churn for a telecom company. Customer churn refers to when a customer stops doing business with a company. Predicting churn is crucial for businesses to retain customers by addressing their issues proactively... | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ) |
 | 6 | Neural network simple steps | I will create a simple neural network example. We'll use a synthetic dataset to predict whether a customer will make a purchase based on two features:Website visit duration Number of pages visited. This is a binary classification problem, and we'll use a small neural network for quick execution. .. | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ,tensorFlow ) |
 
-> ✅ Click any project name to go to its folder and see more details.
+
 
 ---
 
@@ -27,7 +27,10 @@ Welcome to my **Machine Learning Portfolio Repository**! This repo contains a co
 - Data Visualization & Power BI
 - Computer Vision (OpenCV)
 - Natural Language Processing (NLP)
-
+- kmearn
+- logical regression
+- KKN
+- 
 ---
 
 ## 💻 Tools & Libraries Used
