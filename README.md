@@ -13,6 +13,7 @@ Welcome to my **Machine Learning Portfolio Repository**! This repo contains a co
 | 3 | [Predicting_Building_Energy_Efficiency] | Task is to build a model that predicts the energy efficiency rating of buildings based on features like wall area, roof area, overall height, etc.. | Python (pandas ,numpy ,matplotlib ,seaborn ,warnings ,sklearn )|
 | 4 | [Vehicle_Clustering] | Task is to cluster vehicles into groups based on their features such as weight, engine size, and horsepower.. | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ) |
 | 5 | [Decision_Tree_Customer_Churn] | I build a decision tree model to predict customer churn for a telecom company. Customer churn refers to when a customer stops doing business with a company. Predicting churn is crucial for businesses to retain customers by addressing their issues proactively... | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ) |
+| 6 | Neural network simple steps | I will create a simple neural network example. We'll use a synthetic dataset to predict whether a customer will make a purchase based on two features:Website visit duration Number of pages visited. This is a binary classification problem, and we'll use a small neural network for quick execution. .. | Python (pandas ,numpy ,matplotlib  ,warnings ,sklearn ,tensorFlow ) |
 
 > ✅ Click any project name to go to its folder and see more details.
 
